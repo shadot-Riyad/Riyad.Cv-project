@@ -1,0 +1,212 @@
+*{
+        margin: 0;
+        padding: 0;
+
+
+}
+
+body{
+        background-color:#EEE;
+        font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    max-width: 1000px;
+    background-color: #e4f9f5;
+    margin: 0 auto;
+    padding: 20px;
+
+
+
+}
+.header{
+
+
+}
+.profile-image{
+        width: 100px;
+        height: 120px;
+        border: 3px solid white;
+        border-radius: 50%;
+        float: left;
+
+
+}
+
+.header-bio{
+        float: left;
+        padding: 30px;
+
+}
+
+h1,h2,h3,h4,h5,h6,u{
+      color: #11999e ;  
+
+}
+
+.header-contact {
+    float: right;
+    padding: 30px;
+}
+
+.header-contact a{
+
+    padding: 30px;
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+
+}
+.header-contact a:hover{
+    text-decoration: underline;
+    color: tomato;
+
+}
+
+.div-clear{
+    clear:both;
+
+}
+hr{
+    border: solid black 3px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+
+}
+
+ /* Personal Section */
+
+#personal-section{
+
+
+}
+.content{
+   margin-bottom: 30px;
+
+}
+
+.left-div{
+        width: 30%;
+        float:  left;
+
+
+}
+.right-div{
+        width: 70%;
+        float: left;
+}
+
+.common-hr{
+        border: solid black 1px;
+        border-bottom: none;
+        width:20px auto;
+}
+
+
+
+
+    .edu-templete-left{
+        float: left;
+        width: 45%;
+       
+     
+    }
+    .edu-templete-right{
+        float: right;
+        width: 45%;
+    }  
+
+/* My Own highper Link Design Start */
+    .edu-templete-left a{
+
+           
+            text-decoration: none;
+            color: teal;
+            font-weight: bold;
+        
+        }
+    .edu-templete-left a:hover{
+            text-decoration: underline;
+            color: tomato;
+        
+        }
+    .edu-templete-right a{
+
+           
+            text-decoration: none;
+            color: teal;
+            font-weight: bold;
+        
+        }
+    .edu-templete-right a:hover{
+            text-decoration: underline;
+            color: tomato;
+        
+        }
+        /* My Own highper Link Design End */
+
+
+    .bottom-contener {
+        background-color: black;
+        text-align: center;
+        padding:8px;
+
+
+
+    }
+     /*
+
+    .bottom-contener p {
+        background-color: black;
+        text-align: center;
+        padding: 8px;
+
+
+
+    }
+   
+    .bottom-contener a {
+        
+        text-decoration: none;
+        color: teal;
+        margin: 20px;
+        font-weight: bold;
+    }
+    .bottom-contener a:hover{
+        text-decoration: underline;
+
+
+        color: tomato;
+    
+    }
+     My Own highper Link Design End */
+
+
+
+    .bottom-contener p {
+        color: white;
+
+        margin: 10px;
+
+    }
+   .bottom-contener a {
+   
+        color: teal;
+        margin: 10px;
+        font-weight: bold;
+        text-decoration: none;
+       
+      }
+      
+      .bottom-contener a:hover {
+        background-color: tomato;
+        color: white;
+        border: 2px solid white;
+        padding: 5px 5px;
+        margin: 10px;
+        text-align: center;
+        text-decoration: none;
+       
+    }
+    
